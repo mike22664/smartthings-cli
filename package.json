@@ -31,7 +31,7 @@
 		"@changesets/changelog-github": "^0.4.6",
 		"@changesets/cli": "^2.24.4",
 		"@changesets/release-utils": "^0.1.10",
-		"@commitlint/cli": "^17.1.2",
+		"@commitlint/cli": "^19.8.1",
 		"@commitlint/config-conventional": "^17.1.0",
 		"cz-conventional-changelog": "^3.3.0",
 		"rimraf": "^3.0.2"
