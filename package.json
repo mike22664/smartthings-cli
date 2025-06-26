@@ -32,7 +32,7 @@
 		"@changesets/cli": "^2.24.4",
 		"@changesets/release-utils": "^0.1.10",
 		"@commitlint/cli": "^17.1.2",
-		"@commitlint/config-conventional": "^17.1.0",
+		"@commitlint/config-conventional": "^19.8.1",
 		"cz-conventional-changelog": "^3.3.0",
 		"rimraf": "^3.0.2"
 	}
