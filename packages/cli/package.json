@@ -80,9 +80,9 @@
 		"@smartthings/core-sdk": "^8.3.1",
 		"@smartthings/plugin-cli-edge": "^3.3.4",
 		"inquirer": "^8.2.4",
-		"js-yaml": "^4.1.0",
+		"js-yaml": "^5.0.0",
 		"log4js": "^6.6.0",
-		"uuid": "^9.0.0"
+		"uuid": "^14.0.1"
 	},
 	"devDependencies": {
 		"@smartthings/cli-testlib": "^2.0.7",
